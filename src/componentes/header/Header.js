@@ -1,6 +1,6 @@
 import React from "react"
 import './Header.css'
-
+import { FiPhoneCall } from "react-icons/fi";
 import {Link} from 'react-router-dom';
 
 function Header (){
@@ -18,8 +18,8 @@ function Header (){
                 </ul>
             
             </nav>
-            <button> Sobre_mi</button>
-             <button>contactame</button>
+            <button> Sobre_mi<FiPhoneCall/></button>
+             <button>contactame <FiPhoneCall/></button>
         </div>
 
         

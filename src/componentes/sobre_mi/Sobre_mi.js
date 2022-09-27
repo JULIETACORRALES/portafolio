@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function Sobre_mi(){
 
     return (
-        <div> 
+        <div className='Sobre_mi'> 
     <Card style={{ width: '18rem' }}>
       <Card.img  variant="top" src={imagen} />
       <Card.Body>

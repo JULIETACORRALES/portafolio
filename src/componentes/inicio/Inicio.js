@@ -1,14 +1,13 @@
 import Button from 'react-bootstrap/Button';
 import imagen from '../../img/imagen.png';
 import Card from 'react-bootstrap/Card';
- 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function Inicio(){
      
         return (
-        <div> 
+        <div className='Inicio'> 
     <Card style={{ width: '18rem' }}>
       <Card.img  variant="top" src={imagen} />
       <Card.Body>
