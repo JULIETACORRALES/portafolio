@@ -1,5 +1,5 @@
 import React from "react"
-import './Header.css'
+import Card from 'react-bootstrap/Card';
 import imagen from '../../img/imagen.png';
 
 
@@ -19,3 +19,4 @@ function Proyectos(){
       </di>
     )
 }
+export default Proyectos; 

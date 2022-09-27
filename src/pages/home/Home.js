@@ -1,9 +1,8 @@
 import React from "react";
-import Inicio from "../../componentes/inicio/Inicio";
-import Sobre_mi  from "../../componentes/sobre_mi/Sobre_mi";
-import Proyectos from '../../componentes/proyectos/Proyectos';
-import Contactame from '../../componentes/contactame/Contactame'
-
+import Inicio from '../../pages/inicio/Inicio';
+import SobreMi from '../../pages/sobreMi/SobreMi';
+import Proyectos from '../../pages/proyectos/Proyectos';
+import Contactame from '../../pages/contactame/Contactame';
 
 
 function Home (){
@@ -11,7 +10,7 @@ function Home (){
         <>
         
         <Inicio />
-        <Sobre_mi />
+        <SobreMi />
         <Proyectos />
         <Contactame />
         </>

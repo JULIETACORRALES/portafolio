@@ -38,7 +38,12 @@ function Contactame() {
           <FiInstagram/>
           <FiMail/>
           <FiPhoneCall/>
+
+        
     </div>
+
+
+    
 
 
   
