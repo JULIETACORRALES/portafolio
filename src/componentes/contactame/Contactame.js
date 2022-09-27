@@ -20,10 +20,13 @@ function Contactame() {
         <Form.Group className="mb-3">
             <h2>Numero de contacto</h2>
           <Form.Label htmlFor="disabledSelect">+573124600550</Form.Label>
-          <Form.Select id="disabledSelect" placeholder="Numero de contacto" />    
+          <Form.Select id="disabledSelect" placeholder="Numero de contacto" />  
+
+           <Button variant="primary">HV</Button>  
         
         </Form.Group>
-        <Button type="CONTACTAME"></Button>
+        <Button variant="primary">Contactame</Button>
+        
         <div caja>
           <h2>
             DEJAME TU MENSAJE

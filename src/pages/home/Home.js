@@ -9,7 +9,7 @@ import Contactame from '../../componentes/contactame/Contactame'
 function Home (){
     return(
         <>
-        <p>hola</p>
+        
         <Inicio />
         <Sobre_mi />
         <Proyectos />

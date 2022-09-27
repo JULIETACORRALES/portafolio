@@ -1,3 +1,4 @@
+import React from "react";
 import Button from 'react-bootstrap/Button';
 import imagen from '../../img/imagen.png';
 import Card from 'react-bootstrap/Card';
