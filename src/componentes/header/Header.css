@@ -1,0 +1,185 @@
+.header ul {
+    
+    list-style-type: none;
+    margin-left: 70%;
+    margin-bottom: 3em;
+}
+
+.header ul li{
+    float: left;
+     margin-right: 10px;
+    text-decoration: none;
+}
+.header ul li a{
+    color:#FFFFFF;
+    font-size: 26px;
+    font-family: Gilda Display;
+
+}
+body{
+background-color: #031A3E;
+
+}
+.texto{
+    padding-top:6em;
+}
+.formulario{
+   color: #FFFFFF;
+
+ padding-top: 10em;
+    padding-left: 35em;
+}
+.iconos{
+   
+    display: flex;
+    margin-left: 52em;
+  
+
+}
+
+.texto_fp{
+    margin-bottom: 4em;
+    text-align: center;
+    width: 40%;
+    background: rgba(115, 69, 141, 0.5);
+    border: 10px solid hsl(0, 4%, 33%);
+    border-radius: 10px;
+    font-family:  Display;
+}
+.iconos:hover{
+    color: fuchsia;
+    cursor: pointer;
+}
+
+.control{
+    width: 200PX;
+    padding: 8px;
+    background: black;
+    opacity: 35%;
+    border-style: none;
+    transition: 0, 5s ease-in;
+    cursor: pointer;
+    border-style: dotted;
+    border-color: 4px solid purple;
+    border-radius: 5px;
+}
+.boton{
+    display: flex;
+     margin-left: 37em;
+     background-color: aqua;
+     border-radius: 5px;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-bottom: 10px;
+     padding-top: 20px;
+     color: #031A3E;
+     font-weight: bold;
+  
+ }
+.boton:hover{
+    color: fuchsia;
+    cursor: pointer;
+}
+.texto_home{
+    color: #FFFFFF;
+    padding-left: 55px;
+    width: 40px;
+    font-family: Gilda Display;
+    
+}
+
+.card {
+    width: 30em;
+     display: flex;
+     margin-left: 34%;
+     margin-top: 8%;
+}
+
+
+.texto_Sobre{
+color: #FFFFFF;
+width: 50%;
+display: flex;
+margin-left: 20%;
+margin-top: 3em;
+
+}
+
+
+
+.parrafo{
+    width: 30em;
+    margin-top: 10%;
+    font-size: 25px;
+    font-family: Gilda Display;
+}
+.titulo{
+    color: #B20E7B;
+    margin-left: 30%;
+    margin-top:5em ;
+}
+.foto{
+    width: 30%;
+}
+   
+
+.botones{
+    padding-top: 9em;
+    border-radius: 10px;
+    border-color: 5px solid #B20E7B;  
+    margin-left: 35%;  
+}
+.boton_uno{
+    background-color: #031A3E;
+    border-radius: 4px;
+    border: 2px solid #B20E7B;
+    color: #FFFFFF;
+    padding: 10px;
+    font-family: Gilda Display;
+    font-size: 20px;
+}
+
+
+
+
+.boton_uno:hover{
+    cursor: pointer;
+    color: #B20E7B;
+}
+.Skills{
+    color: #B20E7B;
+    margin-left: 40%;
+    margin-top:2em ;
+    display: flex;
+}
+.tecnologia{
+    color: #FFFFFF;
+    display: flex;
+    margin-left: 25%;
+    
+}
+.tecno{
+    margin-left: 15px;
+    
+}
+.tc{
+    margin-top: 2%;
+    padding-left: 25em;
+    display: flex;
+}
+.tcn:hover{
+    color:#FFFFFF;
+    cursor: pointer;
+}
+.tcn{
+    width:8em;
+    height: 8em;
+    margin-right: 3%;
+    background: rgba(115, 69, 141, 0.5);
+    border: 6px solid #B20E7B;
+    border-radius: 10px;
+}
+   
+     
+
+
