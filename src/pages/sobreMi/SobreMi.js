@@ -1,5 +1,4 @@
 import React from "react"
-
 import foto from "../../img/foto.png"
 import css from "../../img/css.png"
 import git from "../../img/git.png"
@@ -38,9 +37,6 @@ hace que me documente constantemente </p>
   
   <h1 className="tecno" >GIT HUB</h1>
   <h1 className="tecno" >JAVA SCRIPT</h1>
-
-
-
  </div>
 
  <div className="tc">

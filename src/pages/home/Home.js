@@ -11,7 +11,9 @@ function Home () {
         <br></br>
 
         <h1 className="texto_home">katherin rodriguez corrales</h1>
+        <h2 className="frase">“Si decides hacer solo las cosas que sabes que van a funcionar, dejarás un montón de oportunidades encima de la mesa”</h2>
       <Card style={{ width: '3rem' }}>
+       
         <Card.Img className="card" variant="top"  src={imagen1} />
         <div className="botones">
         <Button className="boton_uno" variant="primary">Sobre Mi  <br></br> </Button>
